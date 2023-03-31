@@ -1,5 +1,13 @@
 pandas
 numpy
 seaborn
+matplotlib
+#warning->it raises error
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+ipykernel
 
 -e .
